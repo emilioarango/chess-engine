@@ -10,7 +10,7 @@ No dependencies — just Python 3.7+.
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chess-engine.git
+git clone https://github.com/emilioarango/chess-engine.git
 cd chess-engine
 
 python main.py              # Play as White
